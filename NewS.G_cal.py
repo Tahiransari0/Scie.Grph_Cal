@@ -1,4 +1,4 @@
-cd matplotlib
+
 
 import math
 import numpy as np
