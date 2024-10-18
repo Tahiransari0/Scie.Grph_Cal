@@ -1,4 +1,4 @@
-streamlit run colorful_calculator.py
+
 import math
 import numpy as np
 import matplotlib.pyplot as plt
