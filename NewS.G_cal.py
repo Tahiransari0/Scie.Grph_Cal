@@ -1,4 +1,4 @@
-pip install matplotlib
+cd matplotlib
 
 import math
 import numpy as np
